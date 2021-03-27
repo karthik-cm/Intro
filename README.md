@@ -3,4 +3,4 @@
 Hello All
 
 I am Karthik CM studying Master's in Computer Science at Santa Clara University.
-I like Web Development the most of all.
+My areas of interests are Web Development & Game Development.
