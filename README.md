@@ -1,4 +1,4 @@
-#Short intro about me
+#A short intro about me
 
 Namaste !
 
